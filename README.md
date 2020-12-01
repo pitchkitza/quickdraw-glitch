@@ -1,6 +1,6 @@
 # quickdraw-glitch
 
-# Modify the variables to your bindings (I use alternate bindings for macros) and likings (this is a macro for a magazine of 6, if other, edit NumberOfSwaps)
+#### Modify the variables to your bindings (I use alternate bindings for macros) and likings (this is a macro for a magazine of 6, if other, edit NumberOfSwaps)
 
 # Variables and key binds
 - NumberOfSwaps := 6 ;
